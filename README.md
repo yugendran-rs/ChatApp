@@ -1,6 +1,6 @@
-# chatapp
+# Chatapp
 
-> A Vue.js project
+> A realtime chat application using VueJs
 
 ## Build Setup
 
